@@ -1,18 +1,20 @@
 # 🌌 KIRRI
 <div style="font-weight: 600 font-size: 20px">친구들끼리만 프라이빗하게 만든 <bold>스페이스</bold>에서 추억을 공유하고 정리할 수 있는 사이트, 끼리!</div>
+<br>
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/space-401/.github/main/profile/img/selectlogo.png" style="padding-right: 20px"/>
 </div>
-
+<br>
 
 
 ### 🌠 Member
 
-|Front end|Front end|Back end|Back end|Designer|Designer|
+|Frontend|Frontend|Backend|Backend|Designer|Designer|
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| <img src="https://github.com/space-401/FrontEnd/assets/125418818/472b166f-4dfb-47a5-a6fd-f3af9a6b2ab3" width="150"> |<img src="https://github.com/space-401/FrontEnd/assets/125418818/b3976ed7-91b1-4ab1-a367-63f271e22ddf" width="150"> |<img src="https://github.com/space-401/FrontEnd/assets/125418818/ed46b55e-172d-4d10-827e-6dd67ad7d762" width="150"> |<img src="https://github.com/space-401/FrontEnd/assets/125418818/3682d5b9-4a43-4618-b0be-f47e77306822" width="150">|<img src="https://github.com/space-401/.github/assets/125418818/5e579ca4-cd81-431b-84c7-804916cc298d" width="150">|<img src="https://github.com/space-401/.github/assets/125418818/cb9af640-97f1-4a36-b7ba-9ffff1bf4d4b" width="150">|
+| <img src="https://github.com/space-401/FrontEnd/assets/125418818/472b166f-4dfb-47a5-a6fd-f3af9a6b2ab3" width="150"> |<img src="https://github.com/space-401/FrontEnd/assets/125418818/b3976ed7-91b1-4ab1-a367-63f271e22ddf" width="150"> |<img src="https://github.com/seoyeonson/seoyeonson/assets/93702730/a725d297-766b-4ca0-b5bc-0ad2823f7749" width="150"> |<img src="https://github.com/space-401/FrontEnd/assets/125418818/3682d5b9-4a43-4618-b0be-f47e77306822" width="150">|<img src="https://github.com/space-401/.github/assets/125418818/5e579ca4-cd81-431b-84c7-804916cc298d" width="150">|<img src="https://github.com/space-401/.github/assets/125418818/cb9af640-97f1-4a36-b7ba-9ffff1bf4d4b" width="150">|
 | [오혜린](https://github.com/ooherin)|[이지형](https://github.com/Jihyeong00)|[손서연](https://github.com/seoyeonson)|[이재선](https://github.com/jason-lee-webdev)| 최인화|고수연|
+<br>
 
 ### 🌠 기능
 - 스페이스를 만들고 다른 사람을 8명까지 초대할 수 있습니다.
@@ -24,6 +26,7 @@
   내에서 편집기능과,순서를 바꾸는 기능을 제공합니다.
 - 포스트에서는 댓글과 대댓글을 작성할 수 있습니다.
 - 마이페이지에서는 내가 쓴 포스트와 댓글을 모아 볼 수 있습니다. 
+<br>
 
 ### ⭐️ Frontend Stack
 
